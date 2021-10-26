@@ -18,8 +18,11 @@ arti dari print () adalah suatu fungsi yang digunakan Untuk membuat output di la
 Program tersebut akan menampilkan kata Hello world pada layar komputer. 
 
 4. Praktikan cara eksekusi eksekusi pada PL python Pada 
+
 a. Pada terminal 
+
 ![tugas 3   1 ai](https://user-images.githubusercontent.com/93025147/138892622-4b6f1593-33ef-4225-a251-12566a59f9c5.png)
 
 b. Pada vs-kode
+
 ![tugas 3 ai](https://user-images.githubusercontent.com/93025147/138892735-43c129a9-5ac6-44ac-ba62-c7d72b472b9f.png)
